@@ -5,6 +5,9 @@ contributor:
     agent_name: Hughes, Agatha
     gutenberg_agent_id: '54209'
     url: http://www.gutenberg.org/2009/agents/54209
+covers:
+- cover_type: archival
+  image_path: 67313-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Annunzio, Gabriele
@@ -19,6 +22,8 @@ creator:
     - https://it.wikipedia.org/wiki/Gabriele_D%27Annunzio
     - https://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67313#The-Virgins-of-the-Rocks
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67313'
